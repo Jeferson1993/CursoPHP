@@ -1,9 +1,5 @@
 <?php
 
- echo "Olá mundo PHP Profissional. Criando conflitos";
-
- echo "Novo echo";
-
-echo "Teste de conflito";
+ echo "Olá mundo PHP Profissional";
 
 ?>
