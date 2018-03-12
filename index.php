@@ -4,4 +4,6 @@
 
  echo "Novo echo";
 
+echo "Teste de conflito";
+
 ?>
